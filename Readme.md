@@ -1,7 +1,9 @@
-# 👋Welcome to Shivam's Github Page! 
+# 👋Welcome to my Github Page! 
+
+![image](https://user-images.githubusercontent.com/91784043/224322357-b5d98d67-7d97-4939-81b7-ed5d739ad4dc.png)
 
 ## 🧑‍💻 About Me
-I am a Machine Learning Engineer with a passion for building and deploying intelligent systems that improve people's lives. I have [X] years of experience in developing ML models, working with big data, and implementing end-to-end ML solutions.
+I am a Machine Learning Engineer with a passion for building and deploying intelligent systems that improve people's lives. I have a year of experience in developing ML models.
 
 ## 🚀 My Work
 I have worked on a variety of projects in different industries, including healthcare, finance, and retail. Some of my recent work includes:
