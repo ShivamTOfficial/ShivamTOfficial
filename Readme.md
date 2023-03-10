@@ -4,7 +4,7 @@
     <title>Shivam's Github Page</title>
   </head>
   <body>
-    <h1>Welcome to [Your Name]'s Github Page!</h1>
+    <h1>Welcome to Shivam's Github Page!</h1>
     <h2>About Me</h2>
 <p>I am a Machine Learning Engineer with a passion for building and deploying intelligent systems that improve people's lives. I have [X] years of experience in developing ML models, working with big data, and implementing end-to-end ML solutions.</p>
 
