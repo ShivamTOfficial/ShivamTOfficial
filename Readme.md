@@ -1,6 +1,7 @@
 # 👋Welcome to my Github Page! 
 
-![image](https://user-images.githubusercontent.com/91784043/224322357-b5d98d67-7d97-4939-81b7-ed5d739ad4dc.png)
+![136MELEhgZsPFuzlZvObnxA](https://user-images.githubusercontent.com/91784043/224322733-c3c12c61-41f8-4a0c-b36a-71516c3fb5c8.gif)
+
 
 ## 🧑‍💻 About Me
 I am a Machine Learning Engineer with a passion for building and deploying intelligent systems that improve people's lives. I have a year of experience in developing ML models.
